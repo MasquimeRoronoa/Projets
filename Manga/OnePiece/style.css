@@ -1,0 +1,31 @@
+body {background-color: lightblue;}
+
+h1 {text-align: center;}
+#pres {text-align: center;}
+
+#p1 {text-align: center;
+    font-size: 20px;}
+#p2 {text-align: center;}
+
+#img0 {width: 500px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;}
+
+#img1 {width: 350px;}
+
+      #colonne1 {float: left;
+                margin-left: 150px;
+                width: auto;
+                height: auto;
+                margin-bottom: 30px;}
+
+      #colonne2 {float: right;
+                margin-right: 150px;
+                width: auto;
+                height: auto;
+                margin-bottom: 30px;}
+
+#bottom {clear: both;
+        text-align: center;
+        margin-bottom: 30px;}
