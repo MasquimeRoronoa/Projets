@@ -1,0 +1,16 @@
+body {background-image: url(https://framapiaf.s3.framasoft.org/framapiaf/media_attachments/files/000/054/932/original/36f955e963a448e6.jpg)}
+
+h1 {text-align: center;
+  color: white;}
+
+p {text-align: center;
+  font-size: 30px;
+  color: white;}
+
+a {text-decoration: none;
+  color: white;}
+
+a:hover {background-color: white;
+        color: black;
+
+}

@@ -27,7 +27,10 @@ a {color: white;
       margin-right: auto;}
 
 #img1 {width: 350px;
-      margin-bottom: 20px;}
+      display: block;
+      margin-bottom: 20px;
+      margin-left: auto;
+      margin-right: auto}
 
       #colonne1 {float: left;
                 margin-left: 150px;
